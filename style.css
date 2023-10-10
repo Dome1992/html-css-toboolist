@@ -8,11 +8,63 @@ header{
     height: 70px;
     
 }
-
-span{
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 50px;
+img{
+    margin-top: 10px;
+    margin-left: 10px;
 }
+.Toboolist{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+.button1{
+    color: white;
+    background-color:rgb(0, 140, 255);
+    padding: 7px;
+    border-radius: 5px;
+}
+.button2{
+    color: gray;
+    background-color: antiquewhite;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+.etichetta1{
+    color: white;
+    background-color: rgb(0, 140, 255);
+    border-radius: 15px;
+    width:60px;
+    padding:5px;
+  }
+  .etichetta2{
+    color: white;
+    background-color:rgb(175, 4, 147);
+    border-radius: 15px;
+    width:60px;
+    padding:5px;
+  }
+  .etichetta3{
+    color: white;
+    background-color:green;
+    border-radius: 15px;
+    width:60px;
+    padding:5px;
+  }
+
+  .etichetta5{
+    color: white;
+    background-color:rgb(255, 0, 98);
+    border-radius: 15px;
+    width:60px;
+    padding:5px;
+  }
+  .etichetta6{
+    color: white;
+    background-color:rgb(136, 255, 0);
+    border-radius: 15px;
+    width:60px;
+    padding:5px;
+  }
 
 .conteiner{
     width: 80%;
@@ -24,8 +76,8 @@ span{
     
 }
 section{
-    margin-top: 30px;
-    margin-left: 30px;
+    padding-top: 50px;
+    padding-left: 65px;
    
   
 }
